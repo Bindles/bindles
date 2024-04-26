@@ -14,7 +14,7 @@
 
 💬 Ask me about Ruby, Back-end development.
 
-📫 How to reach me bindlez@gmail.com || linkedin.com/in/bindles/
+📫 How to reach me bindlez@gmail.com || https://linkedin.com/in/bindles/
 
 <!--
 **Bindles/bindles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
