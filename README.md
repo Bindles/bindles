@@ -1,5 +1,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
+💎 I am proficient (and love) Ruby/Rails, and Javascript.
+
+🌱 I’m currently learning React and Rust
+
+🏆I enjoy competitve coding as well as Leetcode (@400x)
+
+🐍I stay fluent with Python by doing leetcode problems in it or tanslating them.
+
+🔨 I love making powerful oneliners in ruby.
+
+💬 Ask me about Ruby, Back-end development.
+
+📫 How to reach me bindlez@gmail.com
 
 <!--
 **Bindles/bindles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
