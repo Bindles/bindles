@@ -6,7 +6,9 @@
 
 🏆I enjoy competitve coding as well as Leetcode [currently @400 problems] {most done in 2-4 langs}
 
-🐍I stay fluent with Python by doing leetcode problems in it or tanslating them.
+🐍I stay fluent with Python by doing leetcode problems with it or tanslating them.
+
+🏃 I started coding and making websites/games at age 12 [Basic/HTML/Javascript/SphereJs/RPGMaker95/2k]
 
 🔨 I love making powerful oneliners in ruby.
 
