@@ -1,5 +1,3 @@
-api/pin?username=anuraghazra&repo=github-readme-stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bindles&repo=github-readme-stats)](https://github.com/bindles/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 💎 I am proficient (and love) Ruby/Rails, and Javascript.
