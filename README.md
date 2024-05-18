@@ -16,7 +16,7 @@
 
 📫 How to reach me bindlez@gmail.com || https://linkedin.com/in/bindles/
 
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/bindles?ext=heatmap)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bindles&layout=compact)
