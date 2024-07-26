@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
-💎 I am proficient (and love) Ruby/Rails, and Javascript.
+💎 I am proficient (and love) Ruby/Rails, C++, Python and Javascript.
 
 🌱 I’m currently learning React and Rust
 
