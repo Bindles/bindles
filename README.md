@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React and Rust
 
-🏆I enjoy competitve coding as well as Leetcode [currently @ ~500 problems completed] {each problem done in 3-4 langs: ruby,py,js,rust}
+🏆I enjoy competitve coding as well as Leetcode [currently @ ~700 problems completed] {each problem done in 4-5 langs: c++,ruby,py,js,rust,go + multiple ways}
 
 🐍I stay fluent with Python by doing leetcode problems with it or tanslating them.
 
